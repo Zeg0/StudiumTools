@@ -8,3 +8,5 @@ Inhalte:
 - Verbesserte Berechnung von Aufgaben in der Form ´a^b mod c´ (Für RSA encrypt/decrypt)
 - ...
 
+### TODO: Besser primfaktorzerlegung von z durchführen und e als primzahl die darin nicht enthalten ist. sollte theoretisch deutlich schneller gehen als hier programmierte 0-100 ausprobier variante (bei bekannter liste verfügbarer primzahlen easy) --- siehe handschriftl rechnung studium
+
